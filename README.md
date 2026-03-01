@@ -4,9 +4,9 @@ This project focuses on **predicting customer churn in a bank** using Machine Le
 
 ## Dataset Description
 The dataset contains customer-level information such as:
-* Demographic details (e.g., Geography, Gender)
-* Financial attributes (e.g., Balance, Credit Score, Estimated Salary)
-* Behavioral indicators (e.g., Number of Products, Active Member)
+* Demographic details ( Geography, Gender)
+* Financial attributes (Balance, Credit Score, Estimated Salary)
+* Behavioral indicators ( Number of Products, Active Member)
 * Target variable: **Exited** (1 = Customer churned, 0 = Retained)
   
 ## Code Sections:
