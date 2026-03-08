@@ -43,7 +43,7 @@ This step ensures the model receives clean and standardized input features.
 
 This approach improves generalization and avoids manual tuning.
 
-### 5️.Custom Test Data Preprocessing Pipeline (`DfPrepPipeline`)
+### 5️.Custom Test Data Preprocessing Pipeline (DfPrepPipeline)
 A reusable preprocessing function is implemented to ensure:
 * Same scaling logic as training data
 * Safe handling of missing categorical columns
