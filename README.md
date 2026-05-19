@@ -12,9 +12,9 @@ The dataset contains customer-level information such as:
 ## Code Sections:
 ### 1️.Library Imports
 All required Python libraries are imported at the beginning, including:
-* NumPy & Pandas for data handling
-* Matplotlib for visualization
-* Scikit-learn for preprocessing, modeling, and evaluation
+* It handles dataset by using python libraries(NumPy & Pandas).
+* It uses Matplotlib for visualization
+* It uses Scikit-learn for preprocessing, modeling, and evaluation
 
 This ensures a clean and organized environment for ML development.
 
