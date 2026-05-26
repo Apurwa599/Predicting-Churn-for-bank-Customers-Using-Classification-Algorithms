@@ -1,8 +1,8 @@
 ## Predicting-Churn-for-bank-Customers
-## Project Overview
+### Project Overview
 This project focuses on **predicting customer churn in a bank** using Machine Learning techniques. Customer churn refers to customers who exit or close their bank accounts. The goal is to build a robust end-to-end ML pipeline that preprocesses data, trains models, evaluates performance, and makes reliable predictions on unseen test data.
 
-## Dataset Description
+### Dataset Description
 The dataset contains customer-level information such as:
 * Demographic details ( Geography, Gender)
 * Financial attributes (Balance, Credit Score, Estimated Salary)
